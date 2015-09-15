@@ -44,6 +44,11 @@ public class DatabaseBarang extends SQLiteOpenHelper {
 
     }
 
+    public void tes(){
+
+
+    }
+
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
 
